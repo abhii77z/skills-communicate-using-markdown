@@ -19,5 +19,3 @@
 ### 💻 Python Code Example:
 ```python
 print("Hello from Abhii!")
-
-
